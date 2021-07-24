@@ -1,0 +1,26 @@
+.header {
+  z-index: 1000;
+  top: 0;
+  position: sticky;
+  padding-left: 10px;
+  height: 75px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  text-align: right;
+  gap: 40px;
+  width: 100%;
+  justify-content: space-around;
+  border-bottom: 1px black solid;
+  box-shadow: 1px 1px 3px grey;
+}
+
+.header .logo {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 22px;
+}
+
+.header .RLetter {
+  color: rgb(0, 225, 255);
+}

@@ -1,0 +1,19 @@
+.NavigationItem {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.NavigationItem a {
+  color: black;
+  height: 100%;
+  padding: 16px 10px;
+  border-bottom: 4px solid transparent;
+}
+
+.NavigationItem a:hover {
+  color: rgb(180, 179, 179);
+  cursor: pointer;
+}

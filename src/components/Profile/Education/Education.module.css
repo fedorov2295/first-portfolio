@@ -1,0 +1,10 @@
+.Main {
+  margin: auto;
+  width: 75%;
+  padding: 25px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.Main h2 {
+  text-align: center;
+}

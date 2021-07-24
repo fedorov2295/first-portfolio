@@ -1,0 +1,25 @@
+.Main {
+  margin: auto;
+  width: 75%;
+  padding: 25px;
+  display: grid;
+  grid-template-areas:
+    'a p p'
+    'i i i';
+}
+
+.Main .avatar {
+  border: 1px black solid;
+  height: 150px;
+  width: 250px;
+  grid-area: a;
+}
+
+.Main .profile {
+  grid-area: p;
+  text-align: left;
+}
+
+.Main .info {
+  grid-area: i;
+}
