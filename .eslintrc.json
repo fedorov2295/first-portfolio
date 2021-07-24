@@ -22,6 +22,6 @@
         "prettier"
     ],
     "rules": {
-        "import/no-extraneous-dependencies":"warn"
+        "import/no-extraneous-dependencies":"off"
     }
 }
