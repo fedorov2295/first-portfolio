@@ -13,9 +13,7 @@ function App() {
       <BrowserRouter>
         <Layout>
           <Switch>
-            <Route path="/" exact>
-              <AboutMyself />
-            </Route>
+            <Route path="/" exact component={AboutMyself} />
             <Route path="/projects" component={Projects} />
           </Switch>
           <MyFooter />
