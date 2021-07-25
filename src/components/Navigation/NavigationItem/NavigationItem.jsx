@@ -1,12 +1,13 @@
 /* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/prop-types */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import classes from './NavigationItem.module.css';
 
 const NavigationItem = (props) => (
   <li className={classes.NavigationItem}>
-    <Link to={props.link}>{props.children}</Link>
+    <Link to={props.link} exact={props.exact}>
+      {props.children}
+    </Link>
   </li>
 );
 
