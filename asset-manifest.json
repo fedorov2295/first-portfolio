@@ -849,8 +849,8 @@
     "icon.wrench-js.js": "/first-portfolio/static/js/icon.wrench-js.090a7b18.chunk.js",
     "icon.wrench-js.js.map": "/first-portfolio/static/js/icon.wrench-js.090a7b18.chunk.js.map",
     "main.css": "/first-portfolio/static/css/main.d5ef36a1.chunk.css",
-    "main.js": "/first-portfolio/static/js/main.ca3eae1a.chunk.js",
-    "main.js.map": "/first-portfolio/static/js/main.ca3eae1a.chunk.js.map",
+    "main.js": "/first-portfolio/static/js/main.15485011.chunk.js",
+    "main.js.map": "/first-portfolio/static/js/main.15485011.chunk.js.map",
     "runtime-main.js": "/first-portfolio/static/js/runtime-main.c6b40a6e.js",
     "runtime-main.js.map": "/first-portfolio/static/js/runtime-main.c6b40a6e.js.map",
     "static/css/426.c39a25b3.chunk.css": "/first-portfolio/static/css/426.c39a25b3.chunk.css",
@@ -874,6 +874,6 @@
     "static/css/426.c39a25b3.chunk.css",
     "static/js/426.c702d912.chunk.js",
     "static/css/main.d5ef36a1.chunk.css",
-    "static/js/main.ca3eae1a.chunk.js"
+    "static/js/main.15485011.chunk.js"
   ]
 }
